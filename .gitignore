@@ -4,3 +4,4 @@ __pycache__/
 output/
 field_measurements_*.csv
 field_measurement_counts_*.csv
+*.zip
